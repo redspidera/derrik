@@ -1,0 +1,1 @@
+import{j as e}from"./index-C2hfVn6k.js";const r=()=>e.jsxs("div",{children:[e.jsx("h1",{children:"Our Blog"}),e.jsx("p",{children:"Read the latest news and articles from the real estate industry."})]});export{r as default};

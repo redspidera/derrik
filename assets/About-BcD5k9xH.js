@@ -1,0 +1,1 @@
+import{j as e}from"./index-C2hfVn6k.js";const s=()=>e.jsxs("div",{children:[e.jsx("h1",{children:"About Us"}),e.jsx("p",{children:"We are a leading real estate agency providing top-notch services."})]});export{s as default};

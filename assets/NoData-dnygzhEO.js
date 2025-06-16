@@ -1,0 +1,1 @@
+import{j as s}from"./index-C2hfVn6k.js";const i=()=>s.jsxs("div",{className:"no-listings-container blog-bo",children:[s.jsx("h2",{children:"No Community Match Your Keyword"}),s.jsx("img",{src:"/img/residential.png",alt:""}),s.jsx("p",{children:"Try resetting your filters to see more listings."})]});export{i as N};

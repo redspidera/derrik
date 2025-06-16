@@ -1,0 +1,1 @@
+import{j as s}from"./index-C2hfVn6k.js";const i=({responseMessage:e})=>s.jsxs("div",{className:"success-message",children:[s.jsx("img",{src:"/img/verified.gif",alt:"Success Icon",className:"success-icon"}),s.jsxs("div",{className:"message-content",children:[s.jsx("h2",{children:"Success!"}),s.jsx("p",{children:e})]})]});export{i as S};
