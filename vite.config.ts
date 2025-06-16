@@ -4,7 +4,7 @@ import path from 'path';
 
 // https://vite.dev/config/
 export default defineConfig({
-  base: '/', // Base path for the project
+  base: '/derrik/', // Base path for the project
   plugins: [
     react() // Vite plugin for React
   ],
